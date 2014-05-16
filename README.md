@@ -17,7 +17,9 @@ Phase 2 - We'll focus on performance and ways to make it faster.
 
 *****INSTRUCTIONS*****
 
-You need Python and passlib (easy_install passlib).
+You need Python and passlib --> install passlib - easy_install passlib.
+
+Make it executable --> chmod +x ShadowCracker_v1.2.py --> run it with ./ShadowCracker_v1.2.py --> ENJOY!!!
 
 User is not relevant for the cracking process at this point.
 
